@@ -1,0 +1,5 @@
+*.swp
+conf.tar
+tmp*
+root_key*
+certs/*.pem
